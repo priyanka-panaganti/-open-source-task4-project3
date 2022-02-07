@@ -25,4 +25,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## Memory Card Game
 
-![image](screenshot(192).png)
+![image](Screenshot (192).png)
